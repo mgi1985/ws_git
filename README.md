@@ -3,5 +3,5 @@ prueba2
 lunes
 martes
 miercoles
-jueves
+otro tipo de dia
 viernes
