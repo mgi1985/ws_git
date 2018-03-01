@@ -3,5 +3,5 @@ prueba2
 lunes
 martes
 miercoles
-otro tipo de dia
+8 de marzo (Fiesta)
 viernes
