@@ -3,5 +3,5 @@ prueba2
 lunes
 martes
 miercoles
-jueves
+Fiesta
 viernes
